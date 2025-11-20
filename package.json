@@ -1,0 +1,30 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is my learning project",
+  "homepage": "https://github.com/gomasanisivasankar/Namaste-React#readme",
+  "bugs": {
+    "url": "https://github.com/gomasanisivasankar/Namaste-React/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomasanisivasankar/Namaste-React.git"
+  },
+  "license": "ISC",
+  "author": "Sivasankar Gomasani",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "browserlist": [
+    "last 2 versions"
+  ]
+}
