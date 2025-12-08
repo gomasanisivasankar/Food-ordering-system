@@ -1,0 +1,1878 @@
+{
+    "statusCode": 0,
+    "data": {
+      "statusMessage": "done successfully",
+      "cards": [
+        {
+          "card": {
+            "card": {
+              "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+              "text": "Hong Kong Express",
+              "headerStyling": {
+                "textColor": "text_Highest_Emphasis",
+                "textVariant": "header_H3_Black"
+              }
+            }
+          }
+        },
+        {
+          "card": {
+            "card": {
+              "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+              "tabs": [
+                {
+                  "id": "Order Online",
+                  "title": "Order Online"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "card": {
+            "card": {
+              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+              "info": {
+                "id": "345678",
+                "name": "Hong Kong Express",
+                "city": "Lucknow",
+                "slugs": {
+                  "restaurant": "hongkong-express-gomti-nagar-gomti-nagar",
+                  "city": "lucknow"
+                },
+                "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+                "cloudinaryImageId": "rwte4q53gven8ediwfrb",
+                "locality": "Gomti Nagar",
+                "areaName": "Gomti Nagar",
+                "costForTwo": "40000",
+                "costForTwoMessage": "₹400 for two",
+                "cuisines": [
+                  "Indian"
+                ],
+                "veg": true,
+                "feeDetails": {
+                  "restaurantId": "345678",
+                  "fees": [
+                    {
+  
+                    }
+                  ]
+                },
+                "parentId": "1672",
+                "avgRatingString": "--",
+                "totalRatingsString": "Too Few Ratings",
+                "sla": {
+                  "restaurantId": "345678",
+                  "serviceability": "NON_SERVICEABLE",
+                  "nonServiceableReason": "NON_SERVICEABLE_REASON_NON_BATCHABLE_ACTIVE_ORDER",
+                  "rainMode": "RAIN_MODE_NONE",
+                  "iconType": "ICON_TYPE_EMPTY"
+                },
+                "availability": {
+                  "visibility": true,
+                  "restaurantClosedMeta": {
+  
+                  }
+                },
+                "aggregatedDiscountInfo": {
+                  "shortDescriptionList": [
+                    {
+                      "discountType": "Percentage",
+                      "operationType": "RESTAURANT"
+                    },
+                    {
+                      "discountType": "Percentage",
+                      "operationType": "RESTAURANT"
+                    }
+                  ],
+                  "descriptionList": [
+                    {
+                      "meta": "20% off upto ₹130|Use BOBDC130 Above ₹499",
+                      "discountType": "Percentage",
+                      "operationType": "RESTAURANT"
+                    },
+                    {
+                      "meta": "7.5% off upto ₹100| Above ₹399",
+                      "discountType": "Percentage",
+                      "operationType": "RESTAURANT"
+                    }
+                  ],
+                  "visible": true
+                },
+                "badges": {
+  
+                },
+                "slugString": "hongkong-express-gomti-nagar-gomti-nagar",
+                "labels": [
+                  {
+                    "title": "Timings",
+                    "message": "null"
+                  },
+                  {
+                    "title": "Address",
+                    "message": "D-124,Sahara plaza,patrakarpuram,Gomti nagar Lucknow 226010, GOMTI NAGAR, Nagar Nigam Food Safety Zone-17, Lucknow,Uttar Pradesh - 226010"
+                  },
+                  {
+                    "title": "Cuisines",
+                    "message": "Indian"
+                  }
+                ],
+                "aggregatedDiscountInfoV2": {
+                  "shortDescriptionList": [
+                    {
+                      "discountType": "Percentage",
+                      "operationType": "RESTAURANT"
+                    },
+                    {
+                      "discountType": "Percentage",
+                      "operationType": "RESTAURANT"
+                    }
+                  ],
+                  "descriptionList": [
+                    {
+                      "meta": "20% off upto ₹130|Use BOBDC130 Above ₹499",
+                      "discountType": "Percentage",
+                      "operationType": "RESTAURANT"
+                    },
+                    {
+                      "meta": "7.5% off upto ₹100| Above ₹399",
+                      "discountType": "Percentage",
+                      "operationType": "RESTAURANT"
+                    }
+                  ],
+                  "couponDetailsCta": "View coupon details"
+                },
+                "type": "F",
+                "headerBanner": {
+                  "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/345678"
+                },
+                "availabilityServiceabilityMessage": "Does not deliver to your location",
+                "orderabilityCommunication": {
+                  "title": {
+                    "text": "Wish you were"
+                  },
+                  "subTitle": {
+                    "text": "CLOSER!"
+                  },
+                  "message": {
+                    "text": "This location is outside the outlet's delivery area",
+                    "textColour": "negative"
+                  },
+                  "customIcon": {
+                    "bgGradientColorStart": "#F64C41",
+                    "bgGradientColorEnd": "#E53554"
+                  },
+                  "commsStyling": {
+  
+                  }
+                },
+                "cartOrderabilityNudgeBanner": {
+                  "parameters": {
+  
+                  },
+                  "presentation": {
+  
+                  }
+                },
+                "latLong": "26.852602,80.998488",
+                "externalRatings": {
+                  "aggregatedRating": {
+                    "rating": "--"
+                  }
+                },
+                "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+                "backgroundImageOverlayInfo": {
+  
+                },
+                "featuredSectionInfo": {
+  
+                }
+              },
+              "analytics": {
+  
+              }
+            }
+          }
+        },
+        {
+          "card": {
+            "card": {
+              "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+              "layout": {
+                "rows": 1,
+                "columns": 4,
+                "horizontalScrollEnabled": true,
+                "itemSpacing": 12,
+                "lineSpacing": 10,
+                "widgetPadding": {
+  
+                },
+                "containerStyle": {
+                  "containerPadding": {
+                    "left": 10,
+                    "right": 10
+                  }
+                },
+                "scrollBar": {
+                  "scrollThumbColor": "#E46D47",
+                  "scrollTrackColor": "#e4e4e4",
+                  "width": 54,
+                  "height": 4,
+                  "scrollStyling": {
+                    "padding": {
+                      "top": 20,
+                      "bottom": 20
+                    }
+                  }
+                }
+              },
+              "id": "offerCollectionWidget",
+              "gridElements": {
+                "infoWithStyle": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                  "offers": [
+                    {
+                      "info": {
+                        "header": "Extra ₹15 off",
+                        "offerTagColor": "#E46D47",
+                        "logoBottom": "rng/md/ads/production/d07196b25b85d1fd9951e10c255ab737",
+                        "offerIds": [
+                          "8895d305-4555-410f-ab45-a12b715b8f18"
+                        ],
+                        "expiryTime": "1970-01-01T00:00:00Z",
+                        "description": "NO CODE REQUIRED | ABOVE ₹99",
+                        "offerType": "offers",
+                        "restId": "345678",
+                        "offerLogo": "rng/md/ads/production/d07196b25b85d1fd9951e10c255ab737",
+                        "descriptionTextColor": "#7302060C"
+                      },
+                      "cta": {
+                        "type": "OFFER_HALF_CARD"
+                      }
+                    },
+                    {
+                      "info": {
+                        "header": "20% OFF UPTO ₹130",
+                        "offerTagColor": "#E46D47",
+                        "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/12/5/2b8e3bf0-4c0e-42b4-8c6b-2932fbd44c70_BankofBarodaMenuLogo.png",
+                        "offerIds": [
+                          "b3a3d88b-8ef7-4d7e-aa8b-982fc54feb32"
+                        ],
+                        "expiryTime": "1970-01-01T00:00:00Z",
+                        "couponCode": "USE BOBDC130",
+                        "description": "ABOVE ₹499",
+                        "offerType": "offers",
+                        "restId": "345678",
+                        "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/12/5/2b8e3bf0-4c0e-42b4-8c6b-2932fbd44c70_BankofBarodaMenuLogo.png",
+                        "descriptionTextColor": "#7302060C",
+                        "primaryDescription": "USE BOBDC130"
+                      },
+                      "cta": {
+                        "type": "OFFER_HALF_CARD"
+                      }
+                    },
+                    {
+                      "info": {
+                        "header": "7.5% OFF UPTO ₹100",
+                        "offerTagColor": "#E46D47",
+                        "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/11/30/8c558ee4-4d93-4c9a-8cc5-5f615532929a_YESBankMenuLogoNew1.png",
+                        "offerIds": [
+                          "c85fbe8f-7890-4a28-8ce8-af4536680043"
+                        ],
+                        "expiryTime": "1970-01-01T00:00:00Z",
+                        "couponCode": "NO CODE REQUIRED",
+                        "description": "ABOVE ₹399",
+                        "offerType": "offers",
+                        "restId": "345678",
+                        "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/11/30/8c558ee4-4d93-4c9a-8cc5-5f615532929a_YESBankMenuLogoNew1.png",
+                        "descriptionTextColor": "#7302060C",
+                        "primaryDescription": "NO CODE REQUIRED"
+                      },
+                      "cta": {
+                        "type": "OFFER_HALF_CARD"
+                      }
+                    },
+                    {
+                      "info": {
+                        "header": "FLAT ₹50 OFF",
+                        "offerTagColor": "#E46D47",
+                        "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2025/11/30/bfff830b-9d20-40d0-a866-0c00154c86d0_ICICIMenuLogo.png",
+                        "offerIds": [
+                          "1707fd09-4c1c-464c-ac96-5ee493605bb8"
+                        ],
+                        "expiryTime": "1970-01-01T00:00:00Z",
+                        "couponCode": "NO CODE REQUIRED",
+                        "description": "ABOVE ₹599",
+                        "offerType": "offers",
+                        "restId": "345678",
+                        "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2025/11/30/bfff830b-9d20-40d0-a866-0c00154c86d0_ICICIMenuLogo.png",
+                        "descriptionTextColor": "#7302060C",
+                        "primaryDescription": "NO CODE REQUIRED"
+                      },
+                      "cta": {
+                        "type": "OFFER_HALF_CARD"
+                      }
+                    }
+                  ],
+                  "habitMilestoneInfo": {
+                    "callout": {
+  
+                    }
+                  },
+                  "loyaltyDiscoverPresentationInfo": {
+                    "logoCtx": {
+  
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "card": {
+            "card": {
+              "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuTab",
+              "tabs": [
+                {
+                  "id": "REGULAR",
+                  "title": "Full Menu",
+                  "selected": true,
+                  "analytics": {
+  
+                  },
+                  "selectedImage": "v1594205104/fullMenuActive_qcsdzt.png",
+                  "unselectedImage": "v1594205107/fullMenuInactive_fbdtp2.png"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "groupedCard": {
+            "cardGroupMap": {
+              "REGULAR": {
+                "cards": [
+                  {
+                    "card": {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                        "isPureVeg": true,
+                        "badges": {
+  
+                        },
+                        "vegOnlyDetails": {
+                          "imageId": "AutoVegOnly_qkjowj",
+                          "title": "Showing only vegetarian options.",
+                          "description": "Tap on the VEG ONLY button to turn off the setting"
+                        },
+                        "topRatedFilter": {
+                          "attributes": {
+                            "displayText": "Ratings 4.0+"
+                          }
+                        },
+                        "kidsCategoryFilter": {
+                          "attributes": {
+                            "displayText": "Kids Favourites",
+                            "tooltip": {
+                              "enabled": true,
+                              "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                            }
+                          }
+                        },
+                        "vegFilter": {
+                          "attributes": {
+                            "displayText": "VEG"
+                          }
+                        },
+                        "nonvegFilter": {
+                          "attributes": {
+                            "displayText": "NONVEG"
+                          }
+                        }
+                      },
+                      "relevance": {
+                        "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                        "sectionId": "MENU_FILTER_TOGGLE"
+                      }
+                    }
+                  },
+                  {
+                    "card": {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                        "title": "Recommended",
+                        "itemCards": [
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713146",
+                                "name": "Manchow Soup",
+                                "category": "Chinese Soup",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/31/705bae5a-be0c-497d-b55d-b227f525e960_8d5578dd-b50c-4510-97da-915ef31bd013.JPG",
+                                "isVeg": 1,
+                                "price": 12000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "showImage": true,
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "10546503"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          }
+                        ],
+                        "type": "CATEGORY_TYPE_RECOMMENDED",
+                        "subtitleSuffix": {
+  
+                        },
+                        "categoryId": "-1"
+                      }
+                    }
+                  },
+                  {
+                    "card": {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                        "title": "Chinese Starters",
+                        "itemCards": [
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64712997",
+                                "name": "Veg Spring Roll",
+                                "category": "Chinese Starters",
+                                "isVeg": 1,
+                                "price": 18000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808259"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713006",
+                                "name": "Honey Chilli Potato",
+                                "category": "Chinese Starters",
+                                "isVeg": 1,
+                                "price": 18000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808243"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713015",
+                                "name": "Chilly Potato",
+                                "category": "Chinese Starters",
+                                "isVeg": 1,
+                                "price": 18000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808237"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713020",
+                                "name": "French Fries",
+                                "category": "Chinese Starters",
+                                "isVeg": 1,
+                                "price": 15000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808240"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713031",
+                                "name": "Chilli Mushroom Dry",
+                                "category": "Chinese Starters",
+                                "isVeg": 1,
+                                "price": 18000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808229"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713036",
+                                "name": "Crispy Babycorn",
+                                "category": "Chinese Starters",
+                                "isVeg": 1,
+                                "price": 18000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808238"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713041",
+                                "name": "Veg Manchurian Dry-8Pcs",
+                                "category": "Chinese Starters",
+                                "isVeg": 1,
+                                "price": 19000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808255"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713047",
+                                "name": "Chilli Paneer Dry-8Pcs",
+                                "category": "Chinese Starters",
+                                "isVeg": 1,
+                                "price": 22000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808233"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          }
+                        ],
+                        "subtitleSuffix": {
+  
+                        },
+                        "categoryId": "13032451"
+                      }
+                    }
+                  },
+                  {
+                    "card": {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                        "title": "Chinese Main Course",
+                        "itemCards": [
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713054",
+                                "name": "Veg Manchurian Gravy",
+                                "category": "Chinese Main Course",
+                                "isVeg": 1,
+                                "price": 21000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808256"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713060",
+                                "name": "Chilli Paneer Gravy",
+                                "category": "Chinese Main Course",
+                                "isVeg": 1,
+                                "price": 22000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808234"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713066",
+                                "name": "Chilli Mushroom Gravy",
+                                "category": "Chinese Main Course",
+                                "isVeg": 1,
+                                "price": 22000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808230"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713070",
+                                "name": "Veg Chopsuey",
+                                "category": "Chinese Main Course",
+                                "isVeg": 1,
+                                "price": 20000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808252"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          }
+                        ],
+                        "subtitleSuffix": {
+  
+                        },
+                        "categoryId": "13032452"
+                      }
+                    }
+                  },
+                  {
+                    "card": {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                        "title": "Chinese Rice & Noodles",
+                        "itemCards": [
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713079",
+                                "name": "Fried Rice",
+                                "category": "Chinese Rice & Noodles",
+                                "isVeg": 1,
+                                "price": 17000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808242"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713084",
+                                "name": "Fried Noodles",
+                                "category": "Chinese Rice & Noodles",
+                                "isVeg": 1,
+                                "price": 17000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808241"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713091",
+                                "name": "Chilli Garlic Fried Rice",
+                                "category": "Chinese Rice & Noodles",
+                                "isVeg": 1,
+                                "price": 17000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808228"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713096",
+                                "name": "Chilli Garlic Fried Noodles",
+                                "category": "Chinese Rice & Noodles",
+                                "isVeg": 1,
+                                "price": 17000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808227"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713104",
+                                "name": "Veg Hakka Noodles",
+                                "category": "Chinese Rice & Noodles",
+                                "isVeg": 1,
+                                "price": 17000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808253"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713109",
+                                "name": "Veg Hakka Rice",
+                                "category": "Chinese Rice & Noodles",
+                                "isVeg": 1,
+                                "price": 17000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808254"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713114",
+                                "name": "Schezwan Fried Rice",
+                                "category": "Chinese Rice & Noodles",
+                                "isVeg": 1,
+                                "price": 17000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808249"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713121",
+                                "name": "Schezwan Fried Noodles",
+                                "category": "Chinese Rice & Noodles",
+                                "isVeg": 1,
+                                "price": 17000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808248"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713127",
+                                "name": "Rice & Noodles Mix",
+                                "category": "Chinese Rice & Noodles",
+                                "isVeg": 1,
+                                "price": 17000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808247"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          }
+                        ],
+                        "subtitleSuffix": {
+  
+                        },
+                        "categoryId": "13032453"
+                      }
+                    }
+                  },
+                  {
+                    "card": {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                        "title": "Momos",
+                        "itemCards": [
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713134",
+                                "name": "Steamed Wheat Momos",
+                                "category": "Momos",
+                                "isVeg": 1,
+                                "price": 16000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808250"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          }
+                        ],
+                        "subtitleSuffix": {
+  
+                        },
+                        "categoryId": "13032454"
+                      }
+                    }
+                  },
+                  {
+                    "card": {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                        "title": "Chinese Soup",
+                        "itemCards": [
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713141",
+                                "name": "Hot N Sour Soup",
+                                "category": "Chinese Soup",
+                                "isVeg": 1,
+                                "price": 12000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808244"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713146",
+                                "name": "Manchow Soup",
+                                "category": "Chinese Soup",
+                                "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/31/705bae5a-be0c-497d-b55d-b227f525e960_8d5578dd-b50c-4510-97da-915ef31bd013.JPG",
+                                "isVeg": 1,
+                                "price": 12000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "10546503"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713151",
+                                "name": "Talumein Soup",
+                                "category": "Chinese Soup",
+                                "isVeg": 1,
+                                "price": 12000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808251"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713158",
+                                "name": "Lemon Corriander Soup",
+                                "category": "Chinese Soup",
+                                "isVeg": 1,
+                                "price": 12000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808245"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          }
+                        ],
+                        "subtitleSuffix": {
+  
+                        },
+                        "image": "FOOD_CATALOG/IMAGES/CMS/2024/8/31/705bae5a-be0c-497d-b55d-b227f525e960_8d5578dd-b50c-4510-97da-915ef31bd013.JPG",
+                        "categoryId": "13032455"
+                      }
+                    }
+                  },
+                  {
+                    "card": {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                        "title": "Chinese Combos",
+                        "itemCards": [
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713165",
+                                "name": "Veg Manchurian+Veg Noodles",
+                                "category": "Chinese Combos",
+                                "isVeg": 1,
+                                "price": 20000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808258"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713170",
+                                "name": "Veg Manchurian+Veg Fried Rice",
+                                "category": "Chinese Combos",
+                                "isVeg": 1,
+                                "price": 20000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808257"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713175",
+                                "name": "Chilli Paneer+Veg Noodles",
+                                "category": "Chinese Combos",
+                                "isVeg": 1,
+                                "price": 22000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808236"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713181",
+                                "name": "Chilli Paneer+Veg Fried Rice",
+                                "category": "Chinese Combos",
+                                "isVeg": 1,
+                                "price": 22000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808235"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713187",
+                                "name": "Chilli Mushroom Gravy+ Noodles",
+                                "category": "Chinese Combos",
+                                "isVeg": 1,
+                                "price": 22000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808232"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          },
+                          {
+                            "card": {
+                              "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                              "info": {
+                                "id": "64713191",
+                                "name": "Chilli Mushroom Gravy + Fried Rice",
+                                "category": "Chinese Combos",
+                                "isVeg": 1,
+                                "price": 22000,
+                                "variants": {
+  
+                                },
+                                "variantsV2": {
+  
+                                },
+                                "itemAttribute": {
+                                  "vegClassifier": "VEG"
+                                },
+                                "ribbon": {
+  
+                                },
+                                "type": "ITEM",
+                                "itemBadge": {
+  
+                                },
+                                "badgesV2": {
+  
+                                },
+                                "ratings": {
+                                  "aggregatedRating": {
+  
+                                  }
+                                },
+                                "parentId": "35808231"
+                              },
+                              "analytics": {
+  
+                              },
+                              "hideRestaurantDetails": true
+                            }
+                          }
+                        ],
+                        "subtitleSuffix": {
+  
+                        },
+                        "categoryId": "13032456"
+                      }
+                    }
+                  },
+                  {
+                    "card": {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                        "name": "Hong Kong Express",
+                        "area": "Gomti Nagar",
+                        "completeAddress": "D-124,Sahara plaza,patrakarpuram,Gomti nagar Lucknow 226010, GOMTI NAGAR, Nagar Nigam Food Safety Zone-17, Lucknow,Uttar Pradesh - 226010"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "firstOffsetRequest": true,
+      "isQCLink": false
+    },
+    "tid": "4d69b83f-3b40-4852-90dc-05f6f9430271",
+    "sid": "of827da9-9dec-42ba-9246-9be58f1cd995",
+    "deviceId": "148b8040-32bd-07de-0aac-37710c639955",
+    "csrfToken": "vqip5AAPk7vm-cOVYlezIkGNd4nJGNCs17p2Y9_s"
+  }
