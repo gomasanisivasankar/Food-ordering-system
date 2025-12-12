@@ -8,9 +8,10 @@ import "@testing-library/jest-dom";
 import { BrowserRouter } from "react-router-dom";
 import Header from "../Header";
 
-global.fetch = jest.fn((...args) => {
-    console.log("FETCH CALLED WITH:", args);   // Debug
+global.fetch = jest.fn(() => {
+    
     return Promise.resolve({
+      
       json: () => Promise.resolve(MOCK_DATA_NAME),
     });
   });
@@ -26,7 +27,7 @@ test("should load Restaurant Menu Component", async () => {
         </BrowserRouter>
       )
     );
-        const AccodionHeader=screen.getByText("Rice (8)")
+        const AccodionHeader=screen.getByText("Rice")
 
   });
   
