@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "buildCommand": "parcel build index.html",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
